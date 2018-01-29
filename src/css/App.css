@@ -130,7 +130,7 @@ thead {
 
 @media only screen and (min-width: 768px) {
   table, th, td {
-    padding: 6px 116px;
+    padding: 6px 114px;
     font-size: 15px;
     margin: 15px auto;
   }

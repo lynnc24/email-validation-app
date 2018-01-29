@@ -11,7 +11,7 @@ This app enables users to validate the value of the email field using the REST a
     1. [Setup](#setup)
 
 ## Demo
-Responsive desktop and mobile app. Visit [Email Validation App](https://lynnc24.github.io) and input an email address to get started. (Please click on the images to expand.)
+Responsive desktop and mobile app.
 
 <p float="left">
   <img src="demo_images/mobile_input.png" width="300"/>
@@ -41,7 +41,7 @@ Please run the commands below in the project directory.
 ### `yarn dev`
 
 Runs the app in the development mode.<br>
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.  Input an email address to get started.
 
 The page will reload if you make edits.<br>
 You will also see any lint errors in the console.

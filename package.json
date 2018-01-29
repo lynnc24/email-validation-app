@@ -5,6 +5,7 @@
   "dependencies": {
     "axios": "^0.17.1",
     "body-parser": "^1.18.2",
+    "express": "^4.16.2",
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
     "react-scripts": "1.1.0"
@@ -15,8 +16,7 @@
     "test": "react-scripts test --env=jsdom",
     "lint": "eslint src/components*",
     "server": "node server/server.js",
-    "dev": "concurrently --kill-others-on-fail \"yarn server\" \"yarn start\"",
-    "express": "^4.16.2"
+    "dev": "concurrently --kill-others-on-fail \"yarn server\" \"yarn start\""
   },
   "devDependencies": {
     "concurrently": "^3.5.0",
